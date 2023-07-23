@@ -6,7 +6,7 @@
 
     <groupId>me.mgmgmg</groupId>
     <artifactId>TGYMFix</artifactId>
-    <version>1.0-SHAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>TGYMFix</name>
