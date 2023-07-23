@@ -1,5 +1,8 @@
 # LocketteFix
-A spigot plugin that disables 1.20 editing on private signs
+A spigot/paper plugin that disables 1.20 editing on ATM signs  
+From TimeGivesYouMoney Plugin  
+Download It From Github Actions!  
+
 
 # Legal part (Licence)
 Copyright 2023 mgmgmg

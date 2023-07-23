@@ -26,10 +26,10 @@ public class SignListener implements Listener {
     public boolean isPrivate(Sign sign) {
         return switch (sign.getSide(Side.FRONT).getLine(0)) {
             default -> false;
-            case "[Private]", "[More Users]" -> true;
+            case "[ATM]" -> true;
         } || switch (sign.getSide(Side.BACK).getLine(0)) {
             default -> false;
-            case "[Private]", "[More Users]" -> true;
+            case "[ATM]" -> true;
         };
     }
 }
