@@ -1,4 +1,4 @@
-# LocketteFix
+# TGYMFix
 A spigot/paper plugin that disables 1.20 editing on ATM signs  
 From TimeGivesYouMoney Plugin  
 
